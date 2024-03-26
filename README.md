@@ -72,8 +72,10 @@
 
 
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:
-𝐌𝐒. 𝐄𝐱𝐜𝐞𝐥 for data preparation & cleaning
-𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 for 𝐃𝐀𝐗  query expression & dashboarding
+
+✅ 𝐌𝐒. 𝐄𝐱𝐜𝐞𝐥 for data preparation & cleaning
+
+✅ 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 for 𝐃𝐀𝐗  query expression & dashboarding
 
 
 𝐈𝐍𝐒𝐈𝐆𝐇𝐓𝐒 & 𝐅𝐈𝐍𝐃𝐈𝐍𝐆𝐒:
