@@ -1,4 +1,4 @@
-Electric Vehicle Analysis
+𝐄𝐋𝐄𝐂𝐓𝐑𝐈𝐂 𝐕𝐄𝐇𝐈𝐂𝐋𝐄 𝐀𝐍𝐀𝐋𝐘𝐒𝐈𝐒
 
 
 ![image](https://github.com/Shravan-art/Electric-Vehicle-Analysis/assets/84736720/9b326a7b-7ab2-40b2-ba24-82fae54913e4)![image](https://github.com/Shravan-art/Electric-Vehicle-Analysis/assets/84736720/f0df2494-a477-4cdf-9076-c95c20eece82)# Electric-Vehicle-Analysis
@@ -75,28 +75,41 @@ Electric Vehicle Analysis
 
 
 ▶️	Average electric range is 𝟔𝟖.
+
 ▶️	Total 𝟑𝟕,𝟎𝟕𝟗 vehicles manufactured in the year 2023.
+
 ▶️	Highest best selling model is “𝐌𝐎𝐃𝐄𝐋  𝐘” and the sales is 𝟐𝟖,𝟓𝟎𝟐.
+
 ▶️	𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 state has maximum contribution of vehicles i.e. 𝟏,𝟓𝟎,𝟎𝟖𝟐.
+
 ▶️	Highest battery electric vehicles (BEV), 𝟏,𝟏𝟔,𝟓𝟐𝟗 sold in the state of 𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧.
+
 ▶️	Total Vehicles are 𝟏,𝟓𝟎,𝟒𝟐𝟐
 
 
  𝐂𝐥𝐞𝐚𝐧 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐅𝐮𝐞𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐄𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕):
  
  
-✅𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	69,698 
+✅𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	69,698
+
 ✅% 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	46.33
+
 ✅𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐟𝐮𝐞𝐥 𝐯𝐞𝐡𝐢𝐜𝐥𝐞 𝐞𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕) Eligibility unknown as battery range has not been researched
 
 
+
 ✅𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	62,891 
+
 ✅% 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	41.81
+
 ✅𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐟𝐮𝐞𝐥 𝐯𝐞𝐡𝐢𝐜𝐥𝐞 𝐞𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕) Clean alternative fuel vehicles
 
 
+
 ✅𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	17,833 
+
 ✅% 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	11.86
+
 ✅𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐟𝐮𝐞𝐥 𝐯𝐞𝐡𝐢𝐜𝐥𝐞 𝐞𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕) Low battery range
 
 
