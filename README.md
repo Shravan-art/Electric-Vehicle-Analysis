@@ -36,15 +36,12 @@ Electric Vehicle Analysis
 ▶️	𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬:
 1.	Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 
-
 ▶️ 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜 𝐑𝐚𝐧𝐠𝐞:
 1.	Determine the average electric range of the electric vehicles in the dataset to gauge the technological advancements and efficiency of the EVs.
-
 
 ▶️ 𝐓𝐨𝐭𝐚𝐥 𝐁𝐄𝐕 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬 𝐚𝐧𝐝 % 𝐨𝐟 𝐓𝐨𝐭𝐚𝐥 𝐁𝐄𝐕 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬:
 1.	Identify and analyze the total number of Battery Electric Vehicles (BEVs) in the dataset.
 2.	Calculate the percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
-
 
 ▶️ 𝐓𝐨𝐭𝐚𝐥 𝐏𝐇𝐄𝐕 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬 𝐚𝐧𝐝 % 𝐨𝐟 𝐓𝐨𝐭𝐚𝐥 𝐏𝐇𝐄𝐕 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬:
 1.	Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
@@ -57,21 +54,17 @@ Electric Vehicle Analysis
 1.	Visualization: 𝐋𝐢𝐧𝐞/ 𝐀𝐫𝐞𝐚 𝐂𝐡𝐚𝐫𝐭
 2.	Description: This chart will illustrate the distribution of electric vehicles over the years, starting from 2010, providing insights into the growth pattern and adoption trends.
 
-
 ▶️ 𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬 𝐛𝐲 𝐒𝐭𝐚𝐭𝐞:
 1.	Visualization: 𝐌𝐚𝐩 𝐂𝐡𝐚𝐫𝐭 
 2.	Description: This chart will showcase the geographical distribution of electric vehicles across different states, allowing for the identification of regions with higher adoption rates.
-
 
 ▶️ 𝐓𝐨𝐩 𝟏𝟎 𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬 𝐛𝐲 𝐌𝐚𝐤𝐞:
 1.	Visualization: 𝐁𝐚𝐫 𝐂𝐡𝐚𝐫𝐭 
 2.	Description: Highlight the top 10 electric vehicle manufacturers based on the total number of vehicles, providing insights into the market dominance of specific brands.
 
-
 ▶️ 𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬 𝐛𝐲 𝐂𝐀𝐅𝐕 𝐄𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲:
 1.	Visualization: 𝐏𝐢𝐞 𝐂𝐡𝐚𝐫𝐭 𝐨𝐫 𝐃𝐨𝐧𝐮𝐭 𝐂𝐡𝐚𝐫𝐭
 2.	Description: Illustrate the proportion of electric vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, aiding in understanding the impact of incentives on vehicle adoption.
-
 
 ▶️ 𝐓𝐨𝐩 𝟏𝟎 𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬 𝐛𝐲 𝐌𝐨𝐝𝐞𝐥:
 1.	Visualization: 𝐓𝐫𝐞𝐞 𝐌𝐚𝐩
@@ -82,40 +75,28 @@ Electric Vehicle Analysis
 
 
 ▶️	Average electric range is 𝟔𝟖.
-
 ▶️	Total 𝟑𝟕,𝟎𝟕𝟗 vehicles manufactured in the year 2023.
-
 ▶️	Highest best selling model is “𝐌𝐎𝐃𝐄𝐋  𝐘” and the sales is 𝟐𝟖,𝟓𝟎𝟐.
-
 ▶️	𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 state has maximum contribution of vehicles i.e. 𝟏,𝟓𝟎,𝟎𝟖𝟐.
-
 ▶️	Highest battery electric vehicles (BEV), 𝟏,𝟏𝟔,𝟓𝟐𝟗 sold in the state of 𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧.
-
 ▶️	Total Vehicles are 𝟏,𝟓𝟎,𝟒𝟐𝟐
-
 
 
  𝐂𝐥𝐞𝐚𝐧 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐅𝐮𝐞𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐄𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕):
  
  
 ✅𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	69,698 
-
 ✅% 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	46.33
-
 ✅𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐟𝐮𝐞𝐥 𝐯𝐞𝐡𝐢𝐜𝐥𝐞 𝐞𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕) Eligibility unknown as battery range has not been researched
 
 
 ✅𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	62,891 
-
 ✅% 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	41.81
-
 ✅𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐟𝐮𝐞𝐥 𝐯𝐞𝐡𝐢𝐜𝐥𝐞 𝐞𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕) Clean alternative fuel vehicles
 
 
 ✅𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	17,833 
-
 ✅% 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	11.86
-
 ✅𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐟𝐮𝐞𝐥 𝐯𝐞𝐡𝐢𝐜𝐥𝐞 𝐞𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕) Low battery range
 
 
