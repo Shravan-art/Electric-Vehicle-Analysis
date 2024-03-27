@@ -8,19 +8,17 @@
 𝐄𝐋𝐄𝐂𝐓𝐑𝐈𝐂 𝐕𝐄𝐇𝐈𝐂𝐋𝐄 𝐀𝐍𝐀𝐋𝐘𝐒𝐈𝐒
 
 
-𝐈𝐍𝐓𝐑𝐎𝐃𝐔𝐂𝐓𝐈𝐎𝐍:
+▶ 𝐈𝐍𝐓𝐑𝐎𝐃𝐔𝐂𝐓𝐈𝐎𝐍:
 
 
-𝟏. The transition towards sustainable transportation is accelerating, highlighted by the increasing adoption of electric vehicles (𝐄𝐕). This analysis delves into the dynamics of electric utilities, clean alternative fuel vehicles, battery electric (𝐁𝐄𝐕𝐬), and plug-in hybrid electric vehicles (𝐏𝐇𝐄𝐕𝐬) across various states and cities.
-
-𝟐. We explore the diversity in 𝐄𝐕 models by year, clean alternate fuel vehicle eligibility 𝐂𝐀𝐅𝐕, the electric vehicle type and electric utility that support their integration.
+𝟏. The transition towards sustainable transportation is accelerating, highlighted by the increasing adoption of electric vehicles (𝐄𝐕). This analysis delves into the dynamics of electric utilities, clean alternative fuel vehicles, battery electric (𝐁𝐄𝐕𝐬), and plug-in hybrid explore the diversity in 𝐄𝐕 models by year, clean alternate fuel vehicle eligibility 𝐂𝐀𝐅𝐕, the electric vehicle type and electric utility that support their integration.
 
 𝟑. BEVs, offering zero tailpipe emissions, and 𝐏𝐇𝐄𝐕𝐬, combining electric propulsion with traditional fuel, emerge as key solutions in reducing environmental impact. By examining the geographical distribution of 𝐄𝐕𝐬, we highlight regional trends, adoption rates, and the challenges faced in different areas.
 
 𝟒. This overview underscores the role of 𝐄𝐕𝐬 in driving forward a cleaner, more sustainable future, showcasing the pivotal transformations in the automotive industry towards green mobility.
 
 
-𝐎𝐁𝐉𝐄𝐂𝐓𝐈𝐕𝐄𝐒:
+▶ 𝐎𝐁𝐉𝐄𝐂𝐓𝐈𝐕𝐄𝐒:
 
 
 𝟏. Our analysis aims to provide a detailed examination of the burgeoning electric vehicle (𝐄𝐕) sector, focusing on electric utilities, and the adoption of clean alternative fuel vehicles (𝐂𝐀𝐅𝐕), including battery electric (𝐁𝐄𝐕𝐬) and plug-in hybrid electric vehicles (𝐏𝐇𝐄𝐕𝐬).
@@ -28,10 +26,10 @@
 𝟐. We will investigate the distribution and proliferation of these vehicles across different states and cities, analyze trends based on model years, and evaluate their electric range capabilities. By doing so, we intend to uncover the driving forces behind 𝐄𝐕 adoption, identify existing barriers, and offer insights into the evolving landscape of sustainable urban mobility.
 
 
-𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐓𝐀𝐓𝐄𝐌𝐄𝐍𝐓:
+✅ 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐓𝐀𝐓𝐄𝐌𝐄𝐍𝐓:
 
 
-𝐊𝐏𝐈’𝐬 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭:
+▶ 𝐊𝐏𝐈’𝐬 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭:
 
 ▶️	𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬:
 1.	Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
@@ -48,7 +46,7 @@
 2.	Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
 
-𝐂𝐡𝐚𝐫𝐭𝐬 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭:
+▶ 𝐂𝐡𝐚𝐫𝐭𝐬 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭:
 
 ▶️	𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬 𝐛𝐲 𝐌𝐨𝐝𝐞𝐥 𝐘𝐞𝐚𝐫 (𝐅𝐫𝐨𝐦 𝟐𝟎𝟏𝟎 𝐎𝐧𝐰𝐚𝐫𝐝𝐬):
 1.	Visualization: 𝐋𝐢𝐧𝐞/ 𝐀𝐫𝐞𝐚 𝐂𝐡𝐚𝐫𝐭
@@ -71,14 +69,14 @@
 2.	Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
 
-𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:
+▶ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:
 
 ✅ 𝐌𝐒. 𝐄𝐱𝐜𝐞𝐥 for data preparation & cleaning
 
 ✅ 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 for 𝐃𝐀𝐗  query expression & dashboarding
 
 
-𝐈𝐍𝐒𝐈𝐆𝐇𝐓𝐒 & 𝐅𝐈𝐍𝐃𝐈𝐍𝐆𝐒:
+▶ 𝐈𝐍𝐒𝐈𝐆𝐇𝐓𝐒 & 𝐅𝐈𝐍𝐃𝐈𝐍𝐆𝐒:
 
 
 ▶️	Average electric range is 𝟔𝟖.
@@ -94,7 +92,7 @@
 ▶️	Total Vehicles are 𝟏,𝟓𝟎,𝟒𝟐𝟐
 
 
- 𝐂𝐥𝐞𝐚𝐧 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐅𝐮𝐞𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐄𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕):
+▶ 𝐂𝐥𝐞𝐚𝐧 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐅𝐮𝐞𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐄𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲 (𝐂𝐀𝐅𝐕):
  
  
 ✅ 𝐓𝐨𝐭𝐚𝐥 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧	69,698
@@ -123,7 +121,7 @@
 
 
 
-𝐁𝐄𝐕  &  𝐏𝐇𝐄𝐕  𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬:
+▶ 𝐁𝐄𝐕  &  𝐏𝐇𝐄𝐕  𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬:
 
 ▶️𝐓𝐨𝐭𝐚𝐥 𝐁𝐄𝐕 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬 𝟏𝟏𝟔𝟕𝟓𝟎
 
@@ -135,19 +133,19 @@
 
 
 
-▶️𝐌𝐚𝐫𝐤𝐞𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬:
+▶ 𝐌𝐚𝐫𝐤𝐞𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬:
 
 ✅𝐌𝐚𝐫𝐤𝐞𝐭 𝐓𝐫𝐞𝐧𝐝𝐬: Analysis might reveal growth trends, highlighting increases in 𝐄𝐕 adoption rates, consumer preferences for specific 𝐄𝐕 models, or regions with high 𝐄𝐕 sales.
 
 ✅𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: Segmenting the market based on demographics, vehicle types, and usage patterns can uncover niche markets or areas for potential growth.
 
-▶️𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐚𝐥 𝐈𝐦𝐩𝐚𝐜𝐭:
+▶ 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐚𝐥 𝐈𝐦𝐩𝐚𝐜𝐭:
 
 ✅𝐄𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐑𝐞𝐝𝐮𝐜𝐭𝐢𝐨𝐧: Estimating the reduction in carbon emissions due to 𝐄𝐕 adoption helps quantify environmental benefits.
 
 ✅𝐄𝐧𝐞𝐫𝐠𝐲 𝐂𝐨𝐧𝐬𝐮𝐦𝐩𝐭𝐢𝐨𝐧: Analyzing energy consumption patterns of 𝐄𝐕𝐬 versus traditional vehicles can highlight the potential for renewable energy integration.
 
-▶️𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+▶ 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
 
 ✅𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐟𝐨𝐫 𝐒𝐭𝐚𝐤𝐞𝐡𝐨𝐥𝐝𝐞𝐫𝐬: The analysis can inform stakeholders, including policymakers, manufacturers, and infrastructure developers, about strategic decisions like investment locations, policy incentives, or vehicle features.
 
